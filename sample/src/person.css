@@ -1,0 +1,11 @@
+.person{
+    color: #333;
+    background: yellow;
+    padding: 6px 0 0;
+    margin: 0;
+    position: relative;
+    min-width: 900px;
+    width: 500px;
+    background: url(./img/logo.png) no-repeat;
+    height: 200px;
+}
